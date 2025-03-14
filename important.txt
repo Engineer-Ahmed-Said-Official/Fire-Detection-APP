@@ -1,0 +1,8 @@
+how to run the app?
+1:run install.bat
+2:run start.bat 
+
+
+Created by Engineer Ahmed Said
+portfolio: (https://engineer-ahmed-said-official.github.io/portfolio)
+GitHub: (https://github.com/Engineer-Ahmed-Said-Official)
